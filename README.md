@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=megaultraok&hide_title=true&show_icons=true&hide=issues,contribs&disable_animations=true"></img>
 
-<p>I'm interested in <strong>data engineering</strong> and <strong>backend engineering</strong>.</p>
+<p>I'm interested in <strong>data engineering</strong>, <strong>cloud engineering</strong>, and <strong>backend engineering</strong>.</p>
 </div>
 
 </br>
