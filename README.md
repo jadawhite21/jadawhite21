@@ -12,8 +12,12 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 </br>
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=megaultraok&hide_title=true&show_icons=true&hide=issues,contribs&disable_animations=true">
+
+</br>
+</br>
 
 <p>I'm interested in <strong>data engineering</strong>, <strong>cloud engineering</strong>, and <strong>backend engineering</strong>.</p>
 </div>
