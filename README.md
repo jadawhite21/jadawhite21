@@ -19,7 +19,7 @@
 </br>
 </br>
 
-<p>I'm interested in <strong>system engineering</strong>, <strong>cloud engineering</strong>, <strong>data engineering</strong>, and <strong>backend engineering</strong>.</p>
+<p>I'm interested in <strong>data analysis</strong>, <strong>data engineering</strong>, <strong>cloud engineering</strong>, and <strong>backend engineering</strong>.</p>
 </div>
 
 </br>
