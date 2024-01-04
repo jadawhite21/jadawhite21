@@ -19,7 +19,7 @@
 </br>
 </br>
 
-<p>I'm interested in <strong>full stack development</strong> and <strong>PWA</strong>.</p>
+<p>I'm interested in <strong>application development</strong>, <strong>system analysis</strong>, and <strong>SQL development</strong>.</p>
 </div>
 
 </br>
