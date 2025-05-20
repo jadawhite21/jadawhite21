@@ -22,5 +22,5 @@
 </br>
 </br>
 
-<p>I'm interested in <strong>data analysis</strong>, <strong>system analysis</strong>, and <strong>SQL development</strong>.</p>
+<p>I'm interested in <strong>enterprise application development</strong>, <strong>database development</strong>, and <strong>system analysis</strong>.</p>
 </div>
