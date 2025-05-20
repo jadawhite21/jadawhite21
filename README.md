@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge&logo=tableau=fff">
-<img src="https://img.shields.io/badge/Excel-168363?style=for-the-badge&logo=excel=fff">
+<!-- <img src="https://img.shields.io/badge/Excel-168363?style=for-the-badge&logo=excel=fff"> -->
 
 </br>
 </br>
