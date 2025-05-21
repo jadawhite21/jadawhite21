@@ -17,7 +17,7 @@
 </br>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=megaultraok&hide_title=true&show_icons=true&hide=issues,contribs&disable_animations=true">
+<img src="https://github-readme-stats.vercel.app/api?username=jadawhite21&hide_title=true&show_icons=true&hide=issues,contribs&disable_animations=true">
 
 </br>
 </br>
