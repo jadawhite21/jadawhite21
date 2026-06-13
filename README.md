@@ -3,7 +3,7 @@
 
 <p>I'm interested in <strong>data analysis</strong> and <strong>application development</strong>.</p>
 
-<p>Here, I host my data/BI analysis projects.</p>
+<p>Here, I host my data analysis/BI projects.</p>
 
 </br>
 
