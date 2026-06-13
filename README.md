@@ -23,5 +23,5 @@
 </br>
 </br>
 
-<sub>If you would like to view my software development projects, vist my GitLab <a href="https://gitlab.com/jadawhite26">@jadawhite26</a>.</sub>
+<sub>If you would like to view my software development projects, visit my GitLab <a href="https://gitlab.com/jadawhite26">@jadawhite26</a>.</sub>
 </div>
